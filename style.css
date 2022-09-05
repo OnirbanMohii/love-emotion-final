@@ -1,0 +1,40 @@
+h1 {
+    font-size: 70px;
+}
+
+.color {
+    color: red;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.px {
+    width: 50%;
+    padding: 20px;
+}
+
+.px image {
+
+    padding: 100px 80px;
+
+}
+
+.button {
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 20px;
+    color: beige;
+    font-size: 200;
+    padding: 15px 40px;
+}
+
+p {
+    right: ;
+}
